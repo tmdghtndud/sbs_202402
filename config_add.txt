@@ -1,0 +1,4 @@
+.git/config 파일에 아래내용 추가.
+[i18n]
+	commitEncoding = utf-8
+	logOutputEncoding = utf-8
